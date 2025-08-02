@@ -1,0 +1,14 @@
+{
+  "additionalProperties": {
+    "properties": {
+      "git": {
+        "type": "string",
+        "description": "The Git repository URL for the Library."
+      },
+      "author": {
+        "type": "string",
+        "description": "The author of the Library."
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "$schema": "./schema/index.schema.json",
+  "std": {
+    "git": "https://github.com/NaKeRNarolino/stdmosa.git",
+    "author": "NaKeRNarolino"
+  }
+}
